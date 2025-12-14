@@ -1,0 +1,6 @@
+# Configuratie Confluent Cloud / Kafka
+bootstrap.servers=pkc-xxxxx.us-west-2.aws.confluent.cloud:9092
+security.protocol=SASL_SSL
+sasl.mechanisms=PLAIN
+sasl.username=XXXXXXXXXXXXXXXXXX
+sasl.password=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
